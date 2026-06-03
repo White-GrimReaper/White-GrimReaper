@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mhell Austin! <br/><a href="https://github.com/White-GrimReaper">GitHub</a>, <a href="www.linkedin.com/in/mhellaustinservito">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Mhell Austin! <br/><a href="https://github.com/White-GrimReaper">GitHub</a>, <a href="https://www.linkedin.com/in/mhellaustinservito/">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 General IT Projects:</h2>
 
@@ -20,4 +20,4 @@
 
 [<img align="left" alt="MhellAustinServito | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/mhellaustinservito
+[linkedin]: https://www.linkedin.com/in/mhellaustinservito/
