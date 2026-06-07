@@ -2,7 +2,7 @@
 
 <h2>Projects</h2>
 
-- <b>Layer 2 Vlan(https://github.com/White-GrimReaper/Layer-2-Vlan/blob/main/README.md)</b>
+- <b>[Layer 2 Vlan](https://github.com/White-GrimReaper/Layer-2-Vlan/blob/main/README.md)</b>
 - <b>Layer 2 Vlan with Trunk port and Router on a Stick</b>
 - <b>Small LAN</b>
 - <b>Active Directory (in-progress)</b>
