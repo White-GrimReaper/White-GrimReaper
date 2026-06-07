@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mhell Austin! <br/><a href="https://github.com/White-GrimReaper">IT/Cybersecurity Portfolio</a>, <a href="https://www.linkedin.com/in/mhellaustinservito/">Aspiring Cybersecurity Professional</a>
 
-<h2>General Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Layer 2 Vlan</b>
 - <b>Layer 2 Vlan with Trunk port and Router on a Stick</b>
