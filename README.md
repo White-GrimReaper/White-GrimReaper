@@ -5,7 +5,7 @@ Learn and understand the foundations of IT including troubleshooting and problem
 
 <h2>Projects</h2>
 
-- <b>[Layer 2 Vlan](https://github.com/White-GrimReaper/Layer-2-Vlan/blob/main/README.md)</b>
+- <b>[Layer 2 Vlan](https://github.com/White-GrimReaper/Layer-2-Vlan/tree/main)</b>
 - <b>Layer 2 Vlan with Trunk port and Router on a Stick</b>
 - <b>[Small LAN](https://github.com/White-GrimReaper/LAN)</b>
 - <b>Active Directory (in-progress)</b>
