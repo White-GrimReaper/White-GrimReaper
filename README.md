@@ -13,6 +13,7 @@ Learn and understand the foundations of IT including troubleshooting and problem
 <h2>Certifications</h2>
 
 - [CompTIA CySA+](https://www.credly.com/badges/ea4df49c-91ec-4414-87c8-967a73cc91de/linked_in_profile)
+- [CompTIA Pentest+](https://www.credly.com/badges/52196298-4a7d-4673-81a6-77c23a8ed872/public_url)
 - [CCNA](https://www.credly.com/badges/0a5725f8-5e8b-45c3-babd-a0bbf5fdf635/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/02a56a5c-2c0a-4f3d-98e6-bb5595b5acf0/linked_in_profile)
 - [CompTIA Network+](https://www.credly.com/badges/589ce27f-baad-4f5d-9ff7-5c662eaf2749/linked_in_profile)
