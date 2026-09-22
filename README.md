@@ -9,7 +9,7 @@ Learn and understand the foundations of IT including troubleshooting and problem
 - <b>[Layer 2 Vlan with Trunk port and Router on a Stick](https://github.com/White-GrimReaper/Layer-2-Vlan-with-Trunk-port-and-Router-on-a-Stick)</b>
 - <b>[Small LAN](https://github.com/White-GrimReaper/LAN)</b>
 - <b>[Active Directory](https://github.com/White-GrimReaper/Active-Directory/tree/main)</b>
-- <b>Cloud-Based Active Directory Setup and User Management Writeup</b>
+- <b>Cloud-Based Active Directory Setup and User Management</b>
 
 <h2>Certifications</h2>
 
