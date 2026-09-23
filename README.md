@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mhell Austin! <br/><a href="https://github.com/White-GrimReaper">IT/Cybersecurity Portfolio</a>, <a href="https://www.linkedin.com/in/mhellaustinservito/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Mhell Austin! <br/><a href="https://github.com/White-GrimReaper">IT/Cybersecurity Portfolio</a>, <a href="https://www.linkedin.com/in/mhellaustinservito/">Cybersecurity Professional</a>
 
 <h2>Objective</h2>
 Learn and understand the foundations of IT including troubleshooting and problem-solving issues through labs and hands-on skills to become a cybersecurity professional.
