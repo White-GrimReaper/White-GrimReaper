@@ -10,6 +10,7 @@ Aspiring Network Engineer focused on building, configuring, securing, and troubl
 - <b>[Small LAN](https://github.com/White-GrimReaper/LAN)</b>
 - <b>[Active Directory](https://github.com/White-GrimReaper/Active-Directory/tree/main)</b>
 - <b>Cloud-Based Active Directory Setup and User Management</b>
+- <b>Network Scanning and Host Enumeration with Nmap</b>
 
 <h2>Certifications</h2>
 
