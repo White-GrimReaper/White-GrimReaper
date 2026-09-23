@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mhell Austin! <br/><a href="https://github.com/White-GrimReaper">My Portfolio</a>, <a href="https://www.linkedin.com/in/mhellaustinservito/">Network Engineer</a>
 
 <h2>Objective</h2>
-Learn and understand the foundations of IT including troubleshooting and problem-solving issues through labs and hands-on skills to become a cybersecurity professional.
+Aspiring Network Engineer focused on building, configuring, securing, and troubleshooting network infrastructure through hands-on projects and technical labs. My work explores Cisco networking, VLANs, trunking, inter-VLAN routing, LAN architecture, network security, and infrastructure administration, while continuously developing practical skills in routing, switching, automation, and enterprise network design.
 
 <h2>Projects</h2>
 
