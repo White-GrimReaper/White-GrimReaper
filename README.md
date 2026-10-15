@@ -13,6 +13,7 @@ Aspiring Network Engineer focused on building, configuring, securing, and troubl
 - <b>[Network Scanning and Host Enumeration with Nmap](https://github.com/White-GrimReaper/Network-Scanning-and-Host-Enumeration-with-Nmap/blob/main/README.md)</b>
 - <b>[Static Route Configuration & Layer 1 and 3 Troubleshooting](https://github.com/White-GrimReaper/WAN-Configuration-Layer-1-and-3-Troubleshooting)</b>
 - <b>[Open Shortest Path First (OSPF) Configuration and Troubleshooting](https://github.com/White-GrimReaper/Open-Shortest-Path-First-OSPF-Configuration-and-Troubleshooting/blob/main/README.md)</b>
+- <b>[OSPF InterVLAN Routing](https://github.com/White-GrimReaper/OSPF-InterVLAN-Routing/blob/main/README.md)</b>
 
 <h2>Certifications</h2>
 
