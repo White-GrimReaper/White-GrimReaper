@@ -16,6 +16,7 @@ Aspiring Network Engineer focused on building, configuring, securing, and troubl
 - <b>[OSPF InterVLAN Routing](https://github.com/White-GrimReaper/OSPF-InterVLAN-Routing/blob/main/README.md)</b>
 - <b>[Multi Area OSPF and InterVLAN Routing](https://github.com/White-GrimReaper/Multi-Area-OSPF-and-InterVLAN-Routing)</b>
 - <b>[Dynamic Host Configuration Protocol](https://github.com/White-GrimReaper/Dynamic-Host-Configuration-Protocol/blob/main/README.md)</b>
+- <b>[Domain Name System](https://github.com/White-GrimReaper/Domain-Name-System/blob/main/README.md)</b>
 
 <h2>Certifications</h2>
 
